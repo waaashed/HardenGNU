@@ -30,7 +30,7 @@ afficher_banniere() {
     echo -e "${GREEN}                Script de durcissement GNU/Linux"
     echo -e "           Basé sur les recommandations ANSSI v2.0"
     echo -e "----------------------------------------------------------------"
-    echo -e "             Auteur : Benjamin | Date : $(date '+%Y-%m-%d')"
+    echo -e "             Auteur : s0d3ep | Date : $(date '+%Y-%m-%d')"
     echo -e "----------------------------------------------------------------${RESET}"
     echo ""
 }
