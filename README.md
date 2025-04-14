@@ -9,7 +9,7 @@ Basé sur les recommandations de l'ANSSI (v2.0)
 
 ## 📌 Description
 
-**HardenGNU** est un script interactif de durcissement conçu pour renforcer la sécurité des systèmes GNU/Linux, en appliquant des configurations inspirées du guide de l’[ANSSI v2.0](https://www.ssi.gouv.fr/uploads/2020/01/NP_M_Referentiel_GNU-Linux_v2.0.pdf).
+**HardenGNU** est un script interactif de durcissement conçu pour renforcer la sécurité des systèmes GNU/Linux, en appliquant des configurations inspirées du guide de l’[ANSSI v2.0](https://cyber.gouv.fr/publications/recommandations-de-securite-relatives-un-systeme-gnulinux).
 
 Il propose plusieurs niveaux de sécurisation, s’adaptant aux besoins de chaque environnement : poste utilisateur, serveur, système critique, etc.
 
