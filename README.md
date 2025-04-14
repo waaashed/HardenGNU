@@ -19,8 +19,7 @@ Il propose plusieurs niveaux de sécurisation, s’adaptant aux besoins de chaqu
 - 🥱 Désactivation de services et modules non essentiels (Bluetooth, IPv6, etc.)
 - 🔐 Protection du mot de passe GRUB
 - 🔧 Menu interactif avec aperçu des actions avant exécution
-- 🫰 **Script de rollback** complet pour restaurer l’état initial
-- 📖 **Page de man** fournie (`man hardengnu`) pour une intégration propre
+- 🔄 Script de rollback complet pour restaurer l’état initial
 
 ---
 
