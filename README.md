@@ -38,8 +38,8 @@ Il propose plusieurs niveaux de sécurisation, s’adaptant aux besoins de chaqu
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/waaashed/hardengnu.git
-cd hardengnu
+git clone https://github.com/waaashed/HardenGNU.git
+cd HardenGNU
 chmod +x hardengnu.sh hardengnu-rollback.sh
 sudo ./hardengnu.sh
 ```
