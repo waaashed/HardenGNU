@@ -1,5 +1,7 @@
 # 🛡️ HardenGNU
 
+![Keylogger Image](https://i.postimg.cc/KzSb86sW/hardengnu.png)
+
 **Script de durcissement GNU/Linux**  
 Basé sur les recommandations de l'ANSSI (v2.0)
 
